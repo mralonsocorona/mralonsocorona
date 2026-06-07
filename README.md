@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Alonso Corona</h1>
-  <p><strong>Founder @ RootLabs.mx</strong> · WordPress Plugins · E-commerce MX · AI & Automation</p>
+  <p><strong>Founder @ RootLabs.mx</strong> · AI & Automation · </p>
 
 <a href="https://rootlabs.mx"><img src="https://img.shields.io/badge/RootLabs.mx-1A1A1B?style=for-the-badge&logo=astro&logoColor=white"/></a>
 <a href="mailto:hola@rootlabs.mx"><img src="https://img.shields.io/badge/Contacto-E5E5E7?style=for-the-badge&logo=gmail&logoColor=black"/></a>
