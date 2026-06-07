@@ -22,6 +22,7 @@
 
 ## 🧠 Proyectos actuales
 
+- **Rootlabs-Pos-Pro** — Punto de venta opensoftware para woocommerce.
 - **M.A.T.I.** — Arquitectura LangGraph anti-sycophancy. Pipeline epistémico de 15 nodos para calibrated self-doubt bajo conflicto de interés.
 
 ---
