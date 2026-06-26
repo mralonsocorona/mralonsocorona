@@ -4,7 +4,7 @@
 
 <a href="https://rootlabs.mx"><img src="https://img.shields.io/badge/RootLabs.mx-1A1A1B?style=for-the-badge&logo=astro&logoColor=white"/></a>
 <a href="mailto:hola@rootlabs.mx"><img src="https://img.shields.io/badge/Contacto-E5E5E7?style=for-the-badge&logo=gmail&logoColor=black"/></a>
-<a href="https://github.com/raycast/extensions"><img src="https://img.shields.io/badge/Raycast-3%20merged%20PRs-FF6363?style=for-the-badge&logo=raycast&logoColor=white"/></a>
+<a href="https://github.com/raycast/extensions"><img src="https://img.shields.io/badge/Raycast-4%20merged%20PRs-FF6363?style=for-the-badge&logo=raycast&logoColor=white"/></a>
 </div>
 
 ---
@@ -13,11 +13,12 @@
 
 ### Raycast Extensions
 
-Contributed **3 merged pull requests** to [`raycast/extensions`](https://github.com/raycast/extensions), fixing real issues in production extensions:
+Contributed **4 merged pull requests** to [`raycast/extensions`](https://github.com/raycast/extensions), fixing real issues in production extensions:
 
 - [#29003](https://github.com/raycast/extensions/pull/29003) — **ShareX**: fixed custom screenshots folder path handling.
 - [#29004](https://github.com/raycast/extensions/pull/29004) — **WhatsApp**: fixed phone parsing crash when preferences are missing.
 - [#29007](https://github.com/raycast/extensions/pull/29007) — **Cloudflare**: fixed Pages crash when latest deployment data is missing.
+- [#29030](https://github.com/raycast/extensions/pull/29030) — **Google Tasks**: fixed create task success handling so success is only shown after the API request completes.
 
 ---
 
