@@ -9,7 +9,7 @@
 *The future of technology belongs to those who refuse to keep it locked.*
 
 [![PhotoCraft](https://img.shields.io/badge/PhotoCraft-Merged%20Contributor-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/storytold/photocraft/pull/873)
-[![Raycast](https://img.shields.io/badge/Raycast-4%20Merged%20PRs-FF6363?style=for-the-badge&logo=raycast&logoColor=white)](https://github.com/raycast/extensions)
+[![Raycast](https://img.shields.io/badge/Raycast-Extensions-111111?style=for-the-badge&logo=raycast&logoColor=white)](https://github.com/raycast/extensions)
 
 </div>
 
